@@ -1,6 +1,6 @@
 {
   "name": "dida/id",
-  "description": "An ID generator.",
+  "description": "A common ID generator.",
   "type": "library",
   "license": "MIT",
   "homepage": "https://github.com/zeupin/dida-id",
